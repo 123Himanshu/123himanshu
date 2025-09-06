@@ -101,12 +101,7 @@
 
 ---
 
-## 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=HimanshuChaprana&limit=5&theme=dark&combine_all_yearly_contributions=true)  
-
----
-
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=123himanshu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
