@@ -86,15 +86,13 @@
 
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=HimanshuChaprana&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>  
-![](https://nirzak-streak-stats.vercel.app/?user=HimanshuChaprana&theme=dark&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuChaprana&theme=dark&hide_border=false&layout=compact)  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=123himanshu&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=123himanshu&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=123himanshu&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=HimanshuChaprana&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=123himanshu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
