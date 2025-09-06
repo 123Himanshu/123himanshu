@@ -72,17 +72,17 @@
 
 ## 🚀 Featured Projects  
 
-🔹 **Pulse Assessment** – Admin + Quiz + Evaluation modules for online assessments  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HimanshuChaprana&repo=Pulse-Assessment&theme=dark)](https://github.com/HimanshuChaprana/Pulse-Assessment)  
+🔹 **MyReZoomed (Next.js)** – Resume builder & updater with ATS insights  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=123Himanshu&repo=MyReZoomed-Next&theme=dark)](https://github.com/123Himanshu/MyReZoomed-Next)  
 
-🔹 **BetWise** – AI-powered betting & fantasy sports assistant  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HimanshuChaprana&repo=BetWise&theme=dark)](https://github.com/HimanshuChaprana/BetWise)  
+🔹 **Brain Health Supporter** – AI-powered mental health support system  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=123Himanshu&repo=Brain_Health_Supporter&theme=dark)](https://github.com/123Himanshu/Brain_Health_Supporter)  
 
-🔹 **Rellyy AI** – Mental health assistant (chat + call-based therapy)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HimanshuChaprana&repo=Rellyy-AI&theme=dark)](https://github.com/HimanshuChaprana/Rellyy-AI)  
+🔹 **RevolteMotersAssesment** – Real-time conversational voice interface using Gemini Live API  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=123Himanshu&repo=RevolteMotersAssesment&theme=dark)](https://github.com/123Himanshu/RevolteMotersAssesment)  
 
-🔹 **Resume Updater & ATS Checker** – Full-stack app for resume enhancement  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HimanshuChaprana&repo=Resume-ATS-Updater&theme=dark)](https://github.com/HimanshuChaprana/Resume-ATS-Updater)  
+🔹 **Conversify** – Real-time chat application  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=123Himanshu&repo=Conversify&theme=dark)](https://github.com/123Himanshu/Conversify)  
 
 ---
 
