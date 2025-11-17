@@ -1,16 +1,6 @@
 # 👋 Hi, I'm Himanshu Chaprana  
 
 💻 **Full Stack Developer** | 🚀 Passionate about building modern web apps | 🌱 Always learning  
-
----
-
-## 💫 About Me  
-- 💻 Skilled in **MERN/MEAN Stack** (MongoDB, Express, React, Node.js, Angular)  
-- 🏢 Currently a **Software Engineer Intern @ Admiral India**  
-- 🌱 Exploring advanced **Java, DSA, and system design** for placements  
-- 🔨 Building **personal & open-source projects** that inspire me  
-- 🎯 Goal: Deliver impactful, scalable applications  
-
 ---
 
 ## 🌐 Connect with Me  
