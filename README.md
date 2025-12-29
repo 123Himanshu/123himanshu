@@ -58,22 +58,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-🔹 **MyReZoomed (Next.js)** – Resume builder & updater with ATS insights  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=123Himanshu&repo=MyReZoomed-Next&theme=dark)](https://github.com/123Himanshu/MyReZoomed-Next)  
-
-🔹 **Brain Health Supporter** – AI-powered mental health support system  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=123Himanshu&repo=Brain_Health_Supporter&theme=dark)](https://github.com/123Himanshu/Brain_Health_Supporter)  
-
-🔹 **RevolteMotersAssesment** – Real-time conversational voice interface using Gemini Live API  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=123Himanshu&repo=RevolteMotersAssesment&theme=dark)](https://github.com/123Himanshu/RevolteMotersAssesment)  
-
-🔹 **Conversify** – Real-time chat application  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=123Himanshu&repo=Conversify&theme=dark)](https://github.com/123Himanshu/Conversify)  
-
----
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=123himanshu&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=123himanshu&theme=shadow_blue&hide_border=false)<br/>
