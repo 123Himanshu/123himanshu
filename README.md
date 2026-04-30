@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Himanshu Chaprana  
+# Hi, I'm Himanshu Chaprana <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**Full-Stack Developer | AI/ML Enthusiast | Open Source Contributor**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=false&vCenter=true&width=500&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
 
 I'm a passionate developer with expertise in building scalable web applications, AI automation solutions, and financial tech applications. I specialize in modern web technologies and create impactful projects that solve real-world problems.
 
 ---
 
-## 🎯 What I Do
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-GIFs/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" /> What I Do
 <div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqKSJqv/giphy.gif" width="360px"/>
 
@@ -21,14 +21,14 @@ I'm a passionate developer with expertise in building scalable web applications,
 
 ---
 
-## 🌐 Connect with Me  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-GIFs/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="25" /> Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-chaprana-92a700245)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:123chapranahimanshu@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/123himanshu)
 
 ---
 
-## 💻 Languages & Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-GIFs/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> Languages & Tools
 
 ### 🎯 Core Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -94,12 +94,12 @@ I'm a passionate developer with expertise in building scalable web applications,
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 
 ---
-# 📊 GitHub Stats:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-GIFs/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="25" /> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=123himanshu&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=123himanshu&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=123himanshu&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-GIFs/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" /> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=123himanshu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
@@ -114,22 +114,7 @@ I'm a passionate developer with expertise in building scalable web applications,
 
 ---
 
-## 🎮 Contribution Snake Animation
-![snake gif](https://github.com/123Himanshu/123himanshu/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📊 Advanced Statistics
-
-### ⏱️ Coding Time Breakdown
-![wakatime stats](https://wakatime.com/badge/user/123himanshu.svg)
-
-### 🌍 Language Distribution (Detailed)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=123himanshu&theme=shadow_blue&hide_border=false&layout=donut)
-
----
-
-## 🔥 GitHub Streak & Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-GIFs/master/Emojis/Objects/Fire.png" alt="Fire" width="25" /> GitHub Streak & Achievements
 <table>
 <tr>
 <td align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=123himanshu&repo=123himanshu&theme=shadow_blue" /></td>
@@ -137,24 +122,12 @@ I'm a passionate developer with expertise in building scalable web applications,
 </tr>
 <tr>
 <td align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=123himanshu&repo=automation-LLM&theme=shadow_blue" /></td>
-<td align="center"><img src="https://via.placeholder.com/450x160/1a1b27/e8e8e8?text=More+Projects+Coming" /></td>
+<td align="center"><img src="https://github-readme-stats.vercel.app/api?username=123himanshu&theme=shadow_blue&show_icons=true&hide_border=false" /></td>
 </tr>
 </table>
 
 ---
 
-## 🏅 Dynamic Badges
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/123himanshu?label=Followers&color=blue&style=plastic)](https://github.com/123himanshu)
-[![GitHub User's stars](https://img.shields.io/github/stars/123himanshu?label=Total%20Stars&style=plastic)](https://github.com/123himanshu)
-[![Repos Badge](https://badges.pufler.dev/repos/123himanshu?style=plastic)](https://github.com/123himanshu)
-[![Years Badge](https://badges.pufler.dev/years/123himanshu?style=plastic)](https://github.com/123himanshu)
-[![Updated Badge](https://badges.pufler.dev/updated/123himanshu/123himanshu?style=plastic)](https://github.com/123himanshu)
-
-</div>
-
----
 ## ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)  
 
@@ -166,7 +139,6 @@ I'm a passionate developer with expertise in building scalable web applications,
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-chaprana-92a700245)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:123chapranahimanshu@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/123himanshu)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/123himanshu)
   
 </div>
 
@@ -187,9 +159,8 @@ I'm a passionate developer with expertise in building scalable web applications,
 
 | Metric | Value |
 |--------|-------|
-| 👥 Followers | ![](https://img.shields.io/github/followers/123himanshu?style=flat) |
-| ⭐ Total Stars | ![](https://img.shields.io/github/stars/123himanshu?style=flat) |
-| 📂 Public Repos | 3+ |
+| 👥 Followers | 10 |
+| 📂 Public Repos | 3 |
 | 🔧 Tech Stack Size | 50+ |
 | 🎯 Focus Areas | Full-Stack, AI/ML, DevOps |
 
