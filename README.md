@@ -6,7 +6,7 @@ I'm a passionate developer with expertise in building scalable web applications,
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-GIFs/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" /> What I Do
+##  What I Do
 <div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqKSJqv/giphy.gif" width="360px"/>
 
@@ -21,7 +21,7 @@ I'm a passionate developer with expertise in building scalable web applications,
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-GIFs/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="25" /> Connect with Me  
+##  Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-chaprana-92a700245)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:123chapranahimanshu@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/123himanshu)
@@ -93,38 +93,14 @@ I'm a passionate developer with expertise in building scalable web applications,
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 
----
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-GIFs/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="25" /> GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=123himanshu&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=123himanshu&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=123himanshu&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-GIFs/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" /> GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=123himanshu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## 📊 Contribution Analytics
-![](https://github-contributor-stats.vercel.app/api?username=123himanshu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 
 ## 📈 Activity Graph
 [![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=123himanshu&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-GIFs/master/Emojis/Objects/Fire.png" alt="Fire" width="25" /> GitHub Streak & Achievements
-<table>
-<tr>
-<td align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=123himanshu&repo=123himanshu&theme=shadow_blue" /></td>
-<td align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=123himanshu&repo=FinFlow&theme=shadow_blue" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=123himanshu&repo=automation-LLM&theme=shadow_blue" /></td>
-<td align="center"><img src="https://github-readme-stats.vercel.app/api?username=123himanshu&theme=shadow_blue&show_icons=true&hide_border=false" /></td>
-</tr>
-</table>
 
 ---
 
