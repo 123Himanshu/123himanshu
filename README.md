@@ -153,7 +153,7 @@ I'm a passionate developer with expertise in building scalable web applications,
 **Let's build something amazing together!** 🚀
 
 [![](https://visitcount.itsvg.in/api?id=123himanshu&icon=2&color=12)](https://visitcount.itsvg.in)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=123himanshu-1711&theme=dark&hide_border=false)](https://git.io/streak-stats)
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
