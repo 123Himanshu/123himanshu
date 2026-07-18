@@ -101,7 +101,8 @@ I'm a passionate developer with expertise in building scalable web applications,
 ## 📈 Activity Graph
 [![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=123himanshu&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+---
+[![GitHub Streak](https://streak-stats.demolab.com?user=123Himanshu&theme=gruvbox&border_radius=9)](https://git.io/streak-stats)
 ---
 
 ## ✍️ Random Dev Quote  
@@ -153,7 +154,7 @@ I'm a passionate developer with expertise in building scalable web applications,
 **Let's build something amazing together!** 🚀
 
 [![](https://visitcount.itsvg.in/api?id=123himanshu&icon=2&color=12)](https://visitcount.itsvg.in)
-[![GitHub Streak](https://streak-stats.demolab.com?user=123himanshu-1711&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
