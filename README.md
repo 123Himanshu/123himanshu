@@ -8,7 +8,6 @@ I'm a passionate developer with expertise in building scalable web applications,
 
 ##  What I Do
 <div>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqKSJqv/giphy.gif" width="360px"/>
 
 - 🔭 **Building** scalable web applications with cutting-edge technologies
 - 🤖 **Exploring** AI/ML automation and LLM integration
